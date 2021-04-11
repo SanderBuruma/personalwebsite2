@@ -1,0 +1,3 @@
+[ ] - More Polish notes.
+[ ] - A blog subdomain.
+[ ] - rss feed with that blog.
